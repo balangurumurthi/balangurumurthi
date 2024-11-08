@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi there! I'm Balan Gurumurthi
 
-<!--
-**balangurumurthi/balangurumurthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📞 Let's Connect
+- **Email:** [balanmoorthi@gmail.com](mailto:balanmoorthi@gmail.com)
+- **Phone:** +91 9698458438
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm a passionate **Software Developer** with a strong focus on both **front-end** and **back-end** development. I'm always excited to learn and create something new.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 🌱 **Learning & Building** – I love exploring cutting-edge technologies and am dedicated to building solutions that make an impact.
+- 🎨 **Front-End:** Angular | Bootstrap
+- 🛠️ **Back-End:** Spring Boot | Docker | Kubernetes
+- 💼 **Banking Expertise:** Extensive experience in the banking sector
+- 📚 **Passionate About:** Continuous learning and developing innovative projects
+
+## 🧰 Technologies & Tools
+| Front-End        | Back-End           | DevOps           |
+|------------------|--------------------|------------------|
+| Angular          | Spring Boot        | Docker           |
+| Bootstrap        | REST APIs          | Kubernetes       |
+| HTML/CSS         | Java               | CI/CD Pipelines  |
+
+---
+
+Feel free to reach out! I’m always open to connecting with like-minded people.
