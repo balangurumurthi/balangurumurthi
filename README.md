@@ -1,11 +1,11 @@
-# 👋 Hi there! I'm Balan Gurumurthi
-
+# 👋 Hi! I'm Balan Gurumurthi
+---
+I'm a passionate **Software Developer** with a strong focus on both **front-end** and **back-end** development. I'm always excited to learn and create something new. Feel free to reach out! I’m always open to connecting with like-minded people.
 ### 📞 Let's Connect
+- **Phone:** [+91 9698458438](tel:+919698458438)
 - **Email:** [balanmoorthi@gmail.com](mailto:balanmoorthi@gmail.com)
-- **Phone:** +91 9698458438
 
-Welcome to my GitHub! I'm a passionate **Software Developer** with a strong focus on both **front-end** and **back-end** development. I'm always excited to learn and create something new.
-
+---
 ## 👨‍💻 About Me
 - 🌱 **Learning & Building** – I love exploring cutting-edge technologies and am dedicated to building solutions that make an impact.
 - 🎨 **Front-End:** Angular | Bootstrap
@@ -21,5 +21,3 @@ Welcome to my GitHub! I'm a passionate **Software Developer** with a strong focu
 | HTML/CSS         | Java               | CI/CD Pipelines  |
 
 ---
-
-Feel free to reach out! I’m always open to connecting with like-minded people.
